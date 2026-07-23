@@ -1,0 +1,18 @@
+{
+  "chart_settings": {
+    "rpn_thresholds": {
+      "critical": 200,
+      "warning": 100
+    },
+    "colors": {
+      "critical": "#d62728", 
+      "warning": "#ff7f0e",
+      "safe": "#2ca02c"
+    }
+  },
+  "matrix_labels": {
+    "title": "ماتریس ریسک (شدت در برابر احتمال)",
+    "x_axis": "احتمال وقوع (O)",
+    "y_axis": "شدت (S)"
+  }
+}
